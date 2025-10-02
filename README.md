@@ -66,6 +66,7 @@ We used Python (Pandas, Matplotlib, Seaborn) to clean, analyze, and visualize th
    Most incidents involve smaller planes.  
    Extra investments in **pilot training** and **equipment upgrades** will mitigate risks.
 
+this is the link to the [tableau dashboard](https://public.tableau.com/authoring/AviationAccident_17593162661470/AviationAccidents#1)
 
 
 
