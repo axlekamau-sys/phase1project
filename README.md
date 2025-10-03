@@ -68,6 +68,14 @@ We used Python (Pandas, Matplotlib, Seaborn) to clean, analyze, and visualize th
 
 this is the link to the [tableau dashboard](https://public.tableau.com/views/AviationAccident_17593162661470/AviationAccidents?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+## Conclusion 
+The data of aviation accidents (1962-2023) reveal the definite trends in improving safety. There are some types of aircraft and aircraft operators that demonstrate lower accident rates and fatality.  Insights relate more directly to the business issue: assisting the leadership in choosing low-risk aircraft to buy.
+## Next steps
+Continuous Monitoring – update dashboard regularly with fresh data.  
+Dashboard Deployment  - have interactive Tablue dashboard for real-time analysis.  
+Strategic Decisions – use insights to guide aircraft routes and safety policies.  
+Future Analysis – research on the cost 
+
 
 
 
